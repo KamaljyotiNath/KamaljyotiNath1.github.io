@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome
 My [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en)
 
 You can use the [editor on GitHub](https://github.com/KamaljyotiNath/KamaljyotiNath.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
