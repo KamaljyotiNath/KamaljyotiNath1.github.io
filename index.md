@@ -8,7 +8,7 @@ I am Kamaljyoti Nath. I grew up in [Sipajhar, Assam](https://www.google.co.in/ma
 
 <td>
 <font color=white size="10"> 
-<img src="https://user-images.githubusercontent.com/75487639/101278081-f35a9780-37de-11eb-8f8f-99fafed90c2e.jpg" alt="alt text" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/75487639/101278081-f35a9780-37de-11eb-8f8f-99fafed90c2e.jpg" alt="alt text">
   
 </font>
 </td>
