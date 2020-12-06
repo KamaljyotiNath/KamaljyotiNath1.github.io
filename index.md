@@ -11,7 +11,7 @@ My broad area of research is in Stochastic Structural Mechanics, Stochastic Fini
 
 ## Publications
 
-My [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en)
+Link to [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en) and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57072835400)
 
 # Education
 - Doctor of Philosophy, Indian Institute of Technology Guwahati, Guwahati, Assam, India. Specialization: Structural Engineering (Civil Engineering) (2013 - 2020) 
