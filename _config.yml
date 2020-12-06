@@ -1,2 +1,13 @@
 theme: jekyll-theme-leap-day
 title: Kamaljyoti Nath
+
+<style type="text/css">
+  @media only screen and (max-width:480px) {
+    img {
+    display:block;
+    float:none;
+    margin:0 auto 20px !important;
+    }
+  }
+</style>
+
