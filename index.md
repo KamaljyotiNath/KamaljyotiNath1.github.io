@@ -1,3 +1,25 @@
+# Test
+<!--[if mso]>
+    <table border="0" cellpadding="0" cellspacing="0" width="600" align="center" bgcolor="#ffffff" style="width:600px;"><tr><td>
+    <![endif]-->
+    <div style="max-width:600px; margin:0 auto; background:#fff; overflow:hidden;">
+        <div style="Margin:20px;">
+            <!--[if mso]>
+            <table border="0" cellpadding="0" cellspacing="0" width="160" align="right" style="width:160px;"><tr><td style="padding:0 0 20px 20px;">
+            <![endif]-->
+            ![IMG-20201206-WA0006](https://user-images.githubusercontent.com/75487639/101278081-f35a9780-37de-11eb-8f8f-99fafed90c2e.jpg)
+            <!--[if mso]>
+            </td></tr></table>
+            <![endif]-->
+            <p style="Margin:0; font:16px/1.25 sans-serif; color:#4CB3E8; text-align:justify;">
+              I am Kamaljyoti Nath. I grew up in [Sipajhar, Assam](https://www.google.co.in/maps/place/Sipajhar,+Assam+784145/@26.3973272,91.8896913,15z/data=!3m1!4b1!4m5!3m4!1s0x375afe1ae571ac61:0xaf73ffbabdd75b55!8m2!3d26.4009984!4d91.8952713), where I completed my high school in 2002, stayed at Guwahti for two years where I completed my intermediate from Cotton College, Guwahati, Assam, India. I completed my PhD in 2020 from [Indian Institute of Technology Guwahati (IITG)](https://www.iitg.ac.in/), Assam, India in the Civil Engineering Department (Structural Engineering stream). In Silchar, Assam, India, I received my B.Tech degree in Civil Engineering from National Institutr of Technology Silchar (NITS) in the year 2008. From August 2008 to July 2013, I stayed at Bangalore, India, where I worked at TATA Consulting Engineers Ltd.   
+            </p>
+        </div>
+    </div>
+    <!--[if mso]>
+    </td></tr></table>
+    <![endif]-->
+
 # Welcome
 
 ![IMG-20201206-WA0006](https://user-images.githubusercontent.com/75487639/101278081-f35a9780-37de-11eb-8f8f-99fafed90c2e.jpg) I am Kamaljyoti Nath. I grew up in [Sipajhar, Assam](https://www.google.co.in/maps/place/Sipajhar,+Assam+784145/@26.3973272,91.8896913,15z/data=!3m1!4b1!4m5!3m4!1s0x375afe1ae571ac61:0xaf73ffbabdd75b55!8m2!3d26.4009984!4d91.8952713), where I completed my high school in 2002, stayed at Guwahti for two years where I completed my intermediate from Cotton College, Guwahati, Assam, India. I completed my PhD in 2020 from [Indian Institute of Technology Guwahati (IITG)](https://www.iitg.ac.in/), Assam, India in the Civil Engineering Department (Structural Engineering stream). In Silchar, Assam, India, I received my B.Tech degree in Civil Engineering from National Institutr of Technology Silchar (NITS) in the year 2008. From August 2008 to July 2013, I stayed at Bangalore, India, where I worked at TATA Consulting Engineers Ltd.
