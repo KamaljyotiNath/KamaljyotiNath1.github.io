@@ -32,7 +32,8 @@ Link to [Google Scholar profile](https://scholar.google.co.in/citations?user=U9V
 
 As often it is said that there is no age for learning, I am continuing my learning process. I am planning to laern R for statistical computing in my next.
 
-
+# Workshoop Attended
+# Extracurricular
 # Personal
 During my free time, I like to read, play chess, solve sudoku. I do like watching movie like almost all like. ज़िन्दगी बड़ी होनी चाहिए लम्बी नहीं (Life should be big not long) is a dialog from movie [Anand](https://www.imdb.com/title/tt0066763/), one of my favariate movie. Other movies are [sparsh](https://www.imdb.com/title/tt0079938/), 
 
