@@ -12,6 +12,8 @@ My broad area of research is in Stochastic Structural Mechanics, Stochastic Fini
 - Structural Health Monitoring
 - Machine Learning
 
+`Code` text
+
 ## Publications
 
 Link to [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en) and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57072835400)
