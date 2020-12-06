@@ -1,4 +1,4 @@
 theme: jekyll-theme-so-simple
 title: Kamaljyoti Nath
-
+gem "github-pages", group: :jekyll_plugins
 
