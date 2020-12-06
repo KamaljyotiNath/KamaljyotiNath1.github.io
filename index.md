@@ -3,11 +3,11 @@ I am Kamaljyoti Nath. I grew up in [Sipajhar, Assam](https://www.google.co.in/ma
 
 ## Research Interest
 My broad area of research is in Stochastic Structural Mechanics, Stochastic Finite Element Method (SFEM), Structural Health Monitoring
--Polynomial Chaos
--K-L expansion
--Stochastic mechanics-
--Structural Health Monitoring
--Machine Learning
+- Polynomial Chaos
+- K-L expansion
+- Stochastic mechanics-
+- Structural Health Monitoring
+- Machine Learning
 
 ### Publications
 
