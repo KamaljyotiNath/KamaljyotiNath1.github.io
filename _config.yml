@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+theme: al-folio
 title: Kamaljyoti Nath
-gem "github-pages", group: :jekyll_plugins
+
 
