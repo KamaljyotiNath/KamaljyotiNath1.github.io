@@ -1,4 +1,9 @@
 # Welcome
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 <table>
 <tr valign="top">
 <td width="50">
