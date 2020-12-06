@@ -32,7 +32,7 @@ Link to [Google Scholar profile](https://scholar.google.co.in/citations?user=U9V
 
 As often it is said that there is no age for learning, I am continuing my learning process. I am planning to laern R for statistical computing in my next.
 
-# Workshoop Attended
+# Workshop Attended
 UNDER CONSTRUCTION
 # Extracurricular
 UNDER CONSTRUCTION
