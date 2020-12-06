@@ -41,5 +41,3 @@ During my free time, I like to read, play chess, solve sudoku. I do like watchin
 
 # Links
 [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Kamaljyoti_Nath2), [LinkedIn], [Orcid](https://orcid.org/0000-0002-5946-6329), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57072835400), [Facebook](https://www.facebook.com/nath.kamaljyoti/)
-
-[Blog](KamaljyotiNath.github.io/Page1.md)
