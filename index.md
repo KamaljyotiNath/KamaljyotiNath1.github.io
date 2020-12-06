@@ -19,13 +19,14 @@ My [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwA
 
 #  Skills and Learning
 - Programming Languages : MATLAB, Python, C
-- Software: STAAD.Pro, AutoCAD, Microsoft office, LaTeX
+- Software: STAAD.Pro, AutoCAD
+- Presentation/Documentation:Microsoft office, LaTeX, Beamer
 
-As often it is said that there is no age for learning, I am continuing my learning process. I am planning to laering R for statistical computing in my next 
+As often it is said that there is no age for learning, I am continuing my learning process. I am planning to laern R for statistical computing in my next.
 
 
 # Personal
-During my free time, I like to read, play chess, solve sudoku. I do like watching movie like almost all like. ज़िन्दगी बड़ी होनी चाहिए लम्बी नहीं (Life should be big not long) is a dialog from movie [Anand](https://www.imdb.com/title/tt0066763/), one of my favariate movie. 
+During my free time, I like to read, play chess, solve sudoku. I do like watching movie like almost all like. ज़िन्दगी बड़ी होनी चाहिए लम्बी नहीं (Life should be big not long) is a dialog from movie [Anand](https://www.imdb.com/title/tt0066763/), one of my favariate movie. Other movies are [sparsh](https://www.imdb.com/title/tt0079938/), 
 
 # Links
 [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Kamaljyoti_Nath2), [LinkedIn], [Faceook](https://www.facebook.com/nath.kamaljyoti/)
