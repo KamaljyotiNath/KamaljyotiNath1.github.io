@@ -5,10 +5,13 @@ I am Kamaljyoti Nath. I grew up in [Sipajhar, Assam](https://www.google.co.in/ma
 My broad area of research is in Stochastic Structural Mechanics, Stochastic Finite Element Method (SFEM), Structural Health Monitoring
 - Polynomial Chaos
 - K-L expansion
-- Stochastic mechanics-
+- Stochastic mechanics
 - Structural Health Monitoring
 - Machine Learning
 
 ### Publications
 
 My [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en)
+
+### Personal
+During my free time, I like to read, play chess, solve sudoku. I do like watching movie like almost all like. ज़िन्दगी बड़ी होनी चाहिए लम्बी नहीं (Life should be big not long) is a dialog from movie [Anand](https://www.imdb.com/title/tt0066763/), one of my favariate movie. 
