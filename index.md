@@ -23,6 +23,8 @@ Future work, I am interested on continueing my study on numerical methods for so
 
 Link to [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en) and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57072835400)
 
+(Journal article: 3 Journal articles are published; another 2 journal articles are under review. Book chapter: A proposal for a book chapter is accepted and is under review. Conference paper: 1 conference paper is accepted/presented)
+
 # Background
 ### Education
 - Doctor of Philosophy, Indian Institute of Technology Guwahati, Guwahati, Assam, India.  
