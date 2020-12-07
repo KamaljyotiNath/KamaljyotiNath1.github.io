@@ -21,7 +21,7 @@ Future work, I am interested on continueing my study on numerical methods for so
 
 ## Publications
 
-Link to [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en) and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57072835400)
+For list of publication please refer to my [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en) and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57072835400).
 
 (Journal article: 3 Journal articles are published; another 2 journal articles are under review. Book chapter: A proposal for a book chapter is accepted and is under review. Conference paper: 1 conference paper is accepted/presented)
 
@@ -47,16 +47,16 @@ thermal power plants. Detailing and checking of civil construction drawings.
 
 As often it is said that there is no age for learning, I am continuing my learning process. I am planning to laern R for statistical computing in my next.
 
-# Extracurricular
+
+# Personal
+During my free time, I like to read, play chess, solve sudoku. I do enjoy watching movies like almost all do. ज़िन्दगी बड़ी होनी चाहिए लम्बी नहीं (Life should be big, not long) is a dialogue from movie [Anand](https://www.imdb.com/title/tt0066763/), one of my favourite movie. Few other movies I like are [Sparsh](https://www.imdb.com/title/tt0079938/), [Masaan](https://www.imdb.com/title/tt4635372/), [Jaane Bhi Do Yaaro](https://www.imdb.com/title/tt0085743/), [Udaan](https://www.imdb.com/title/tt1639426/), [The Lunchbox](https://www.imdb.com/title/tt2350496/), [Abhimaan](https://www.imdb.com/title/tt0069671/), [Gol Maal](https://www.imdb.com/title/tt0079221/), [Ankhon Dekhi](https://www.imdb.com/title/tt3614516/), 12 Angry Man, Titanic, A Beautiful Mind, WALL-E, The Pursuit of Happyness, Piku, Ek Doctor Ki Maut, English Vinglish, Pad Man etc etc.
+
+## Extracurricular
 - Secured 15th  position in Assam state level chess championship, 1996 (Under 12 category), 
 - Secured 15th  position in Assam state level chess championship, 1997 (Under 12 category), 
 - Secured 3rd  position in district chess competition (Darrang district), 1995 (Sub-junior category), 
 - Secured 3rd position in district chess competition (Darrang district), 1996 (Sub-junior category),
 - Secured 2nd position in district chess competition (Darrang district), 1997 (Sub-junior category)
-
-
-# Personal
-During my free time, I like to read, play chess, solve sudoku. I do enjoy watching movies like almost all do. ज़िन्दगी बड़ी होनी चाहिए लम्बी नहीं (Life should be big, not long) is a dialogue from movie [Anand](https://www.imdb.com/title/tt0066763/), one of my favourite movie. Few other movies I like are [Sparsh](https://www.imdb.com/title/tt0079938/), [Masaan](https://www.imdb.com/title/tt4635372/), [Jaane Bhi Do Yaaro](https://www.imdb.com/title/tt0085743/), [Udaan](https://www.imdb.com/title/tt1639426/), [The Lunchbox](https://www.imdb.com/title/tt2350496/), [Abhimaan](https://www.imdb.com/title/tt0069671/), [Gol Maal](https://www.imdb.com/title/tt0079221/), [Ankhon Dekhi](https://www.imdb.com/title/tt3614516/), 12 Angry Man, Titanic, A Beautiful Mind, WALL-E, The Pursuit of Happyness, Piku, Ek Doctor Ki Maut, English Vinglish, Pad Man etc etc.
 
 # Links
 [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Kamaljyoti_Nath2), [LinkedIn](https://www.linkedin.com/in/kamaljyoti-nath-8a058567/), [Orcid](https://orcid.org/0000-0002-5946-6329), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57072835400), [Facebook](https://www.facebook.com/nath.kamaljyoti/)
