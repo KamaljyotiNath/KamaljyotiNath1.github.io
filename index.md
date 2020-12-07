@@ -31,8 +31,9 @@ Link to [Google Scholar profile](https://scholar.google.co.in/citations?user=U9V
 - From August 2008 to July 2013, I worked at TATA Consulting Engineers Limited, where I worked on Modelling, analysis, design and design review of civil structures of
 thermal power plants. Detailing and checking of civil construction drawings.
 
-# Workshop Attended
-UNDER CONSTRUCTION
+### Workshop Attended
+- Attended certificate course on “”Practical Design of Steel Structure” (Using IS: 800-2007)” organized by Institute for Research, Development and Training of Construction Trades and Management, Bangalore (Bengaluru), 17th May to 18th June 2010.
+- Attended a one-week training program on "Seismic Vulnerability Assessment of RC Buildings using software SAP2000 Nonlinear Static-based procedure" organized by Assam Engineering College (Guwahati, India) and NORSAR (Kjeller, Norway), June 02-07, 2014 at AEC Guwahati, Assam.
 
 #  Skills and Learning
 - Programming Languages : MATLAB, Python, C
