@@ -21,9 +21,16 @@ With the increase in importance for monitoring the state of structures, demand f
 
 Link to [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en) and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57072835400)
 
-# Education
+# Background
+## Education
 - Doctor of Philosophy, Indian Institute of Technology Guwahati, Guwahati, Assam, India. Specialization: Structural Engineering (Civil Engineering) (2013 - 2020) 
 - B. Tech, National Institute of Technology Silchar, Silchar, Assam, India. Specialization: Civil Engineering (2004 - 2008)
+## Industrial Experience
+- From August 2008 to July 2013, I worked at TATA Consulting Engineers Limited, where I worked on Modelling, analysis, design and design review of civil structures of
+thermal power plants. Detailing and checking of civil construction drawings.
+
+# Workshop Attended
+UNDER CONSTRUCTION
 
 #  Skills and Learning
 - Programming Languages : MATLAB, Python, C
@@ -32,12 +39,10 @@ Link to [Google Scholar profile](https://scholar.google.co.in/citations?user=U9V
 
 As often it is said that there is no age for learning, I am continuing my learning process. I am planning to laern R for statistical computing in my next.
 
-# Workshop Attended
-UNDER CONSTRUCTION
 # Extracurricular
 UNDER CONSTRUCTION
 # Personal
-During my free time, I like to read, play chess, solve sudoku. I do like watching movie like almost all like. ज़िन्दगी बड़ी होनी चाहिए लम्बी नहीं (Life should be big not long) is a dialog from movie [Anand](https://www.imdb.com/title/tt0066763/), one of my favariate movie. Few other movies I liked are [Sparsh](https://www.imdb.com/title/tt0079938/), [Masaan](https://www.imdb.com/title/tt4635372/), [The Lunchbox](https://www.imdb.com/title/tt2350496/), [Abhimaan](https://www.imdb.com/title/tt0069671/), [Gol Maal](https://www.imdb.com/title/tt0079221/), [Ankhon Dekhi](https://www.imdb.com/title/tt3614516/), 12 Angry Man, Titanic, A Beautiful Mind, WALL-E, The Pursuit of Happyness, Piku, Ek Doctor Ki Maut, English Vinglish, Pad Man etc etc.
+During my free time, I like to read, play chess, solve sudoku. I do like watching movie like almost all like. ज़िन्दगी बड़ी होनी चाहिए लम्बी नहीं (Life should be big not long) is a dialog from movie [Anand](https://www.imdb.com/title/tt0066763/), one of my favariate movie. Few other movies I liked are [Sparsh](https://www.imdb.com/title/tt0079938/), [Masaan](https://www.imdb.com/title/tt4635372/), [Jaane Bhi Do Yaaro](https://www.imdb.com/title/tt0085743/), [Udaan](https://www.imdb.com/title/tt1639426/), [The Lunchbox](https://www.imdb.com/title/tt2350496/), [Abhimaan](https://www.imdb.com/title/tt0069671/), [Gol Maal](https://www.imdb.com/title/tt0079221/), [Ankhon Dekhi](https://www.imdb.com/title/tt3614516/), 12 Angry Man, Titanic, A Beautiful Mind, WALL-E, The Pursuit of Happyness, Piku, Ek Doctor Ki Maut, English Vinglish, Pad Man etc etc.
 
 # Links
 [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Kamaljyoti_Nath2), [LinkedIn], [Orcid](https://orcid.org/0000-0002-5946-6329), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57072835400), [Facebook](https://www.facebook.com/nath.kamaljyoti/)
