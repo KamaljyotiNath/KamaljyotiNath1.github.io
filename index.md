@@ -25,8 +25,8 @@ Link to [Google Scholar profile](https://scholar.google.co.in/citations?user=U9V
 
 # Background
 ### Education
-- Doctor of Philosophy, Indian Institute of Technology Guwahati, Guwahati, Assam, India. (2013 - 2020) 
-  Specialization: Structural Engineering (Civil Engineering) 
+- Doctor of Philosophy, Indian Institute of Technology Guwahati, Guwahati, Assam, India.  
+  Specialization: Structural Engineering (Civil Engineering) (2013 - 2020)
 - B. Tech, National Institute of Technology Silchar, Silchar, Assam, India. Specialization: Civil Engineering (2004 - 2008)
 
 ### Industrial Experience
