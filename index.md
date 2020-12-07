@@ -22,10 +22,12 @@ With the increase in importance for monitoring the state of structures, demand f
 Link to [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en) and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57072835400)
 
 # Background
-## Education
+### Education
 - Doctor of Philosophy, Indian Institute of Technology Guwahati, Guwahati, Assam, India. Specialization: Structural Engineering (Civil Engineering) (2013 - 2020) 
 - B. Tech, National Institute of Technology Silchar, Silchar, Assam, India. Specialization: Civil Engineering (2004 - 2008)
-## Industrial Experience
+
+### Industrial Experience
+
 - From August 2008 to July 2013, I worked at TATA Consulting Engineers Limited, where I worked on Modelling, analysis, design and design review of civil structures of
 thermal power plants. Detailing and checking of civil construction drawings.
 
