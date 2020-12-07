@@ -16,7 +16,7 @@ Presence of uncertainties in the system properties of structural system is one o
 
 With the increase in importance for monitoring the state of structures, demand for more efficient methods to predict the state of structures are increasing. I am presently working on Machine Learning (ML) based structural health monitoring system.
 
-Future work, I am interested on continueing my study on numerical methods for solution of stochastic system along with ML and its application. 
+Future work, I am interested on continueing my study on numerical methods for solution of stochastic system extending to non-linear system along with study on ML and its application. 
 
 
 ### Publications
