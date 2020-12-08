@@ -43,7 +43,7 @@ thermal power plants. Detailing and checking of civil construction drawings.
 #  Skills and Learning
 - Programming Languages : MATLAB, Python, C
 - Software: STAAD.Pro, AutoCAD
-- Presentation/Documentation:Microsoft office, LaTeX, Beamer
+- Presentation/Documentation: Microsoft office, LaTeX, Beamer
 
 As often it is said that there is no age for learning, I am continuing my learning process. I am planning to laern R for statistical computing in my next.
 
@@ -52,9 +52,9 @@ As often it is said that there is no age for learning, I am continuing my learni
 During my free time, I like to read, play chess, solve sudoku. I do enjoy watching movies like almost all do. ज़िन्दगी बड़ी होनी चाहिए, लम्बी नहीं (Life should be big, not long) is a dialogue from movie [Anand](https://www.imdb.com/title/tt0066763/), one of my favourite movie. Few other movies I like are [Sparsh](https://www.imdb.com/title/tt0079938/), [Masaan](https://www.imdb.com/title/tt4635372/), [Jaane Bhi Do Yaaro](https://www.imdb.com/title/tt0085743/), [Udaan](https://www.imdb.com/title/tt1639426/), [The Lunchbox](https://www.imdb.com/title/tt2350496/), [Abhimaan](https://www.imdb.com/title/tt0069671/), [Gol Maal](https://www.imdb.com/title/tt0079221/), [Ankhon Dekhi](https://www.imdb.com/title/tt3614516/), 12 Angry Man, Titanic, A Beautiful Mind, WALL-E, The Pursuit of Happyness, [Monsoon Wedding](https://www.imdb.com/title/tt0265343/), Piku, Ek Doctor Ki Maut, English Vinglish, Pad Man etc etc.
 
 ### Extracurricular
-- Secured 15th  position in Assam state level chess championship, 1996 (Under 12 category), 
-- Secured 15th  position in Assam state level chess championship, 1997 (Under 12 category), 
-- Secured 3rd  position in district chess competition (Darrang district), 1995 (Sub-junior category), 
+- Secured 15th position in Assam state level chess championship, 1996 (Under 12 category), 
+- Secured 15th position in Assam state level chess championship, 1997 (Under 12 category), 
+- Secured 3rd position in district chess competition (Darrang district), 1995 (Sub-junior category), 
 - Secured 3rd position in district chess competition (Darrang district), 1996 (Sub-junior category),
 - Secured 2nd position in district chess competition (Darrang district), 1997 (Sub-junior category)
 
