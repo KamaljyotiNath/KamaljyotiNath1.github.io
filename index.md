@@ -45,7 +45,7 @@ thermal power plants. Detailing and checking of civil construction drawings.
 - Software: STAAD.Pro, AutoCAD
 - Presentation/Documentation: Microsoft office, LaTeX, Beamer
 
-As often it is said that there is no age for learning, I am continuing my learning process. I am planning to laern R for statistical computing in my next.
+As often it is said that there is no age for learning, I am continuing my learning process. I am planning to learn R for statistical computing in my next.
 
 
 # Personal
