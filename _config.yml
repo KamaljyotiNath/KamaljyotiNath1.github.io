@@ -1,3 +1,10 @@
+@import "{{ site.theme }}";
 
+.inner {
+  max-width: 150%;
+}
+title: Kamaljyoti Nath
+
+theme: jekyll-theme-leap-day
 
 
