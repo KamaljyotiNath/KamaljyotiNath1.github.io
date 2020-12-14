@@ -59,7 +59,5 @@ During my free time, I like to read, play chess, solve sudoku. I do enjoy watchi
 - Secured 2nd position in district chess competition (Darrang district), 1997 (Sub-junior category)
 
 # Links
-[Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en, class="button fork"), 
-<a href="{{https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en}}" class="button fork"><strong>View On GitHub</strong></a>
-
-[ResearchGate](https://www.researchgate.net/profile/Kamaljyoti_Nath2), [LinkedIn](https://www.linkedin.com/in/kamaljyoti-nath-8a058567/), [Orcid](https://orcid.org/0000-0002-5946-6329), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57072835400), [Facebook](https://www.facebook.com/nath.kamaljyoti/), 
+Links to my 
+[Google Scholar](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Kamaljyoti_Nath2), [LinkedIn](https://www.linkedin.com/in/kamaljyoti-nath-8a058567/), [Orcid](https://orcid.org/0000-0002-5946-6329), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57072835400), [Facebook](https://www.facebook.com/nath.kamaljyoti/) profiles.
