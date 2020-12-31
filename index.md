@@ -19,26 +19,21 @@ With the increase in importance for monitoring the state of structures, demand f
 Future work, I am interested on continueing my study on numerical methods for solution of stochastic system extending to non-linear system along with study on ML and its application. 
 
 
-## Publications
+# Publications
 
 For list of publication please refer to my [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en) and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57072835400).
 
 (Journal article: 3 Journal articles are published; another 2 journal articles are under review. Book chapter: A proposal for a book chapter is accepted and is under review. Conference paper: 1 conference paper is accepted/presented)
 
-# Background
-### Education
+# Education
 - Doctor of Philosophy, Indian Institute of Technology Guwahati, Guwahati, Assam, India.  
   Specialization: Structural Engineering (Civil Engineering) (2013 - 2020)
 - B. Tech, National Institute of Technology Silchar, Silchar, Assam, India. Specialization: Civil Engineering (2004 - 2008)
 
-### Industrial Experience
+# Industrial Experience
 
 - From August 2008 to July 2013, I worked at TATA Consulting Engineers Limited, where I worked on Modelling, analysis, design and design review of civil structures of
 thermal power plants. Detailing and checking of civil construction drawings.
-
-### Workshop Attended
-- Attended certificate course on “”Practical Design of Steel Structure” (Using IS: 800-2007)” organized by Institute for Research, Development and Training of Construction Trades and Management, Bangalore (Bengaluru), 17th May to 18th June 2010.
-- Attended a one-week training program on "Seismic Vulnerability Assessment of RC Buildings using software SAP2000 Nonlinear Static-based procedure" organized by Assam Engineering College (Guwahati, India) and NORSAR (Kjeller, Norway), June 02-07, 2014 at AEC Guwahati, Assam.
 
 #  Skills and Learning
 - Programming Languages : MATLAB, Python, C
@@ -46,17 +41,6 @@ thermal power plants. Detailing and checking of civil construction drawings.
 - Presentation/Documentation: Microsoft office, LaTeX, Beamer
 
 As often it is said that there is no age for learning, I am continuing my learning process. I am planning to learn R for statistical computing in my next.
-
-
-# Personal
-During my free time, I like to read, play chess, solve sudoku. I do enjoy watching movies like almost all do. ज़िन्दगी बड़ी होनी चाहिए, लम्बी नहीं (Life should be big, not long) is a dialogue from movie [Anand](https://www.imdb.com/title/tt0066763/), one of my favourite movie. Few other movies I like are [Sparsh](https://www.imdb.com/title/tt0079938/), [Masaan](https://www.imdb.com/title/tt4635372/), [Jaane Bhi Do Yaaro](https://www.imdb.com/title/tt0085743/), [Udaan](https://www.imdb.com/title/tt1639426/), [The Lunchbox](https://www.imdb.com/title/tt2350496/), [Abhimaan](https://www.imdb.com/title/tt0069671/), [Gol Maal](https://www.imdb.com/title/tt0079221/), [Ankhon Dekhi](https://www.imdb.com/title/tt3614516/), 12 Angry Man, Titanic, A Beautiful Mind, WALL-E, The Pursuit of Happyness, [Monsoon Wedding](https://www.imdb.com/title/tt0265343/), Piku, Ek Doctor Ki Maut, English Vinglish, Pad Man etc etc.
-
-### Extracurricular
-- Secured 15th position in Assam state level chess championship, 1996 (Under 12 category), 
-- Secured 15th position in Assam state level chess championship, 1997 (Under 12 category), 
-- Secured 3rd position in district chess competition (Darrang district), 1995 (Sub-junior category), 
-- Secured 3rd position in district chess competition (Darrang district), 1996 (Sub-junior category),
-- Secured 2nd position in district chess competition (Darrang district), 1997 (Sub-junior category)
 
 # Links
 Links to my 
