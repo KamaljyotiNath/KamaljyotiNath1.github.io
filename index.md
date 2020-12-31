@@ -26,21 +26,13 @@ For list of publication please refer to my [Google Scholar profile](https://scho
 (Journal article: 3 Journal articles are published; another 2 journal articles are under review. Book chapter: A proposal for a book chapter is accepted and is under review. Conference paper: 1 conference paper is accepted/presented)
 
 # Education
-- Doctor of Philosophy, Indian Institute of Technology Guwahati, Guwahati, Assam, India.  
-  Specialization: Structural Engineering (Civil Engineering) (2013 - 2020)
-- B. Tech, National Institute of Technology Silchar, Silchar, Assam, India. Specialization: Civil Engineering (2004 - 2008)
+- Doctor of Philosophy in Civil Engineering, Indian Institute of Technology Guwahati, Guwahati, Assam, India. (2013 - 2020)
+- B. Tech in Civil Engineering, National Institute of Technology Silchar, Silchar, Assam, India. (2004 - 2008)
 
 # Industrial Experience
 
 - From August 2008 to July 2013, I worked at TATA Consulting Engineers Limited, where I worked on Modelling, analysis, design and design review of civil structures of
 thermal power plants. Detailing and checking of civil construction drawings.
-
-#  Skills and Learning
-- Programming Languages : MATLAB, Python, C
-- Software: STAAD.Pro, AutoCAD
-- Presentation/Documentation: Microsoft office, LaTeX, Beamer
-
-As often it is said that there is no age for learning, I am continuing my learning process. I am planning to learn R for statistical computing in my next.
 
 # Links
 Links to my 
