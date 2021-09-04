@@ -24,10 +24,10 @@ Future work, I am interested on continueing my study on numerical methods for so
 For list of publication please refer to my [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en) and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57072835400).
 
 ## Journals
-1. Nath, K., Dutta, A., & Hazra, B. (2021). Iterative Polynomial Dimensional Decomposition approach towards solution of structural mechanics problems with material randomness. Probabilistic Engineering Mechanics, 103159.
-2. Nath, K., Dutta, A., & Hazra, B. (2019). An iterative polynomial chaos approach toward stochastic elastostatic structural analysis with non‐Gaussian randomness. International Journal for Numerical Methods in Engineering, 119(11), 1126-1160.
-3. Nath, K., Dutta, A., & Hazra, B. (2020). Long duration response evaluation of linear structural system with random system properties using time dependent polynomial chaos. Journal of Computational Physics, 418, 109596.
-4. Nath, K., Dutta, A., & Hazra, B. (2021). An adaptive scheme for random field discretization using KL expansion. Engineering with Computers, 1-18.
+1. Nath, K., Dutta, A., & Hazra, B. (2019). An iterative polynomial chaos approach for solution of structural mechanics problem with Gaussian material property. *Journal of Computational Physics*, 390, 425-451.
+2. Nath, K., Dutta, A., & Hazra, B. (2019). An iterative polynomial chaos approach toward stochastic elastostatic structural analysis with non‐Gaussian randomness. *International Journal for Numerical Methods in Engineering*, 119(11), 1126-1160.
+3. Nath, K., Dutta, A., & Hazra, B. (2020). Long duration response evaluation of linear structural system with random system properties using time dependent polynomial chaos. *Journal of Computational Physics*, 418, 109596.
+4. Nath, K., Dutta, A., & Hazra, B. (2021). An adaptive scheme for random field discretization using KL expansion. *Engineering with Computers*, 1-18., https://doi.org/10.1007/s00366-021-01326-6
 5. Nath, K., Dutta, A., & Hazra, B. (2021). Iterative Polynomial Dimensional Decomposition approach towards solution of structural mechanics problems with material randomness. Probabilistic Engineering Mechanics, 103159.
 
 ## Book Chapters
