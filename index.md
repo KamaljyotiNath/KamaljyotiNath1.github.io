@@ -23,7 +23,16 @@ Future work, I am interested on continueing my study on numerical methods for so
 
 For list of publication please refer to my [Google Scholar profile](https://scholar.google.co.in/citations?user=U9Vf1IwAAAAJ&hl=en) and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57072835400).
 
-(Journal article: 4 Journal articles are published; another 1 journal articles are under review. Book chapter: A proposal for a book chapter is accepted and is under review. Conference paper: 1 conference paper is accepted/presented)
+## Journals
+[1] Nath, K., Dutta, A., & Hazra, B. (2021). Iterative Polynomial Dimensional Decomposition approach towards solution of structural mechanics problems with material randomness. Probabilistic Engineering Mechanics, 103159.
+[2] Nath, K., Dutta, A., & Hazra, B. (2019). An iterative polynomial chaos approach toward stochastic elastostatic structural analysis with non‐Gaussian randomness. International Journal for Numerical Methods in Engineering, 119(11), 1126-1160.
+[3] Nath, K., Dutta, A., & Hazra, B. (2020). Long duration response evaluation of linear structural system with random system properties using time dependent polynomial chaos. Journal of Computational Physics, 418, 109596.
+[4] Nath, K., Dutta, A., & Hazra, B. (2021). An adaptive scheme for random field discretization using KL expansion. Engineering with Computers, 1-18.
+[5] Nath, K., Dutta, A., & Hazra, B. (2021). Iterative Polynomial Dimensional Decomposition approach towards solution of structural mechanics problems with material randomness. Probabilistic Engineering Mechanics, 103159.
+
+## Book Chapters
+[1] Nath, K., Dutta, A., & Hazra, B. Stochastic Finite Element Method. In Reliability-Based Analysis and Design of Structures and Infrastructure (pp. 101-116). CRC Press.
+
 
 # Education
 - Doctor of Philosophy in Civil Engineering, Indian Institute of Technology Guwahati, Guwahati, Assam, India. (2013 - 2020)
